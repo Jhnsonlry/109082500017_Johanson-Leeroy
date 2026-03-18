@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 1 - ... </h1>
+# <h1 align="center">Laporan Praktikum Modul 2 - ... </h1>
 <p align="center">[Johanson Leeroy] - [109082500017]</p>
 
 ## Unguided 
