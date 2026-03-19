@@ -51,7 +51,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_3](https://github.com/Jhnsonlry/109082500017_Johanson-Leeroy/blob/main/modul2/output/output-soal1.png)
+![Screenshot Output Unguided 1_3](https://github.com/Jhnsonlry/109082500017_Johanson-Leeroy/blob/main/modul3/output/output-soal1.png)
 [Program di atas dibuat untuk menghitung Permutasi dan Kombinasi. Paling pertama merupakan deklarasi Function untuk menghitung faktorial dari sebuah bilangan yang menggunakan logika struktur kontrol perulangan. Kedua adalah Function untuk menghitung permutasi dengan rumus p!/q! dan dengan cara melakukan pemanggilan function faktorial. Ketiga adalah Function untuk menghitung Kombinasi dengan rumus x!/ (y! * (x - y)!) dan dengan cara melakukan pemanggilan function faktorial. Terakhir merupakan function utama yang berisi deklarasi variabel, scan input dari user, dan Struktur kontrol if-else untuk memastikan output tidak salah karena urutan angka yang tidak tepat serta melakukan pemanggilan function permutasi dan kombinasi]
 
 ### 2. [Diberikan tiga buah fungsi matematika yaitu 𝑓 (𝑥) = 𝑥^2, 𝑔 (𝑥) = 𝑥 − 2 dan ℎ (𝑥) = 𝑥 +1. Fungsi komposisi (𝑓𝑜𝑔𝑜ℎ)(𝑥) artinya adalah 𝑓(𝑔(ℎ(𝑥))). Tuliskan 𝑓(𝑥), 𝑔(𝑥) dan ℎ(𝑥)dalam bentuk function.]
@@ -95,7 +95,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 2_3](https://github.com/Jhnsonlry/109082500017_Johanson-Leeroy/blob/main/modul2/output/output-soal2.png)
+![Screenshot Output Unguided 2_3](https://github.com/Jhnsonlry/109082500017_Johanson-Leeroy/blob/main/modul3/output/output-soal2.png)
 [Program di atas dibuat untuk melakukan opearasi fungsi komposisi. Pertama diawali dengan 3 function, yaitu f, g, dan h setiap fungsi memiliki operasi matematikanya sendiri. Kedua ada function utama yang merupakan deklarasi variabel, scan input dari user, pemanggilan function f,g,h untuk menghitung komposisi fungsi ( contoh : fungsi komposisi f o g o h, dihitung dengan pemanggilan fungsi f(g(h(a))) ). Terakhir merupakan output hasil dari masing masing fungsi komposisi]
 
 ### 3. [ Suatu lingkaran didefinisikan dengan koordinat titik pusat (𝑐𝑥, 𝑐𝑦) dengan radius 𝑟. Apabila diberikan dua buah lingkaran, maka tentukan posisi sebuah titik sembarang (𝑥, 𝑦)berdasarkan dua lingkaran tersebut.]
@@ -144,6 +144,6 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 3_3](https://github.com/Jhnsonlry/109082500017_Johanson-Leeroy/blob/main/modul2/output/output-soal3.png)
+![Screenshot Output Unguided 3_3](https://github.com/Jhnsonlry/109082500017_Johanson-Leeroy/blob/main/modul3/output/output-soal3.png)
 [Program di atas dibuat untuk mengetahui apakah sebuat titik sembarang berada dalam lingkaran 1 atau 2 atau tidak sama sekali. Pertama merupakan deklarasi function jarak untuk menghitung jarak dari titik pusat lingkaran 1 dan 2 ke titik sembarang dengan menggunakan rumus 𝑗𝑎𝑟𝑎𝑘 = √(𝑎 − 𝑐)^2 + (𝑏 − 𝑑)^2. Kedua merupakan deklarasi function didalam untuk memeriksa apakah titik sembarang berada dalam lingkaran atau tidak dengan membandingkan panjang jari-jari dan jarak titik sembarang, jika jari-jari >= jarak maka titik berada di dalam lingkaran. Ketiga merupakan function utama yang berisi deklarasi variabel (p1,p2,r1 merupakan variabel untuk lingkaran 1, pp1,pp2,r2 merupakan variabel untuk lingkaran 2, t1,t2 untuk variabel koordinat titik sembarang) dan scan input dari user. Terakhir adalah struktur kontrol if-else untuk menentukan output, apakah titik berada di dalam lingkaran 1, lingkaran 2, kedua lingkaran atau tidak sama sekali]
 
